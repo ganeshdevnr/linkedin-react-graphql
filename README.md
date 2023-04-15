@@ -1,4 +1,4 @@
-# Building a GraphQL Project with React.js
+# Building a GraphQL Project with React.js By Ganesh
 This is the repository for the LinkedIn Learning course Building a GraphQL Project with React.js. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Building a GraphQL Project with React.js][lil-thumbnail-url] 
